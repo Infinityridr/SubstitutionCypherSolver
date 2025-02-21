@@ -1,5 +1,7 @@
 # SubstitutionCypherSolver
 
-Simple python substitution cypher solver for picoCTF. 
+No libraries
 
-python
+Only python needed
+
+Need a file with text to decrypt, and the cypher key.
